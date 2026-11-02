@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode/
+# rezultati koje skripte same generiraju
+*.png
+Air_gap_field_model/*.pdf
+!Air_gap_field_model/Zavrsni_rad_Karla_Belak.pdf
+# FEMM radne datoteke (nastaju pokretanjem afpm_femm.py)
+*.fem
+*.ans

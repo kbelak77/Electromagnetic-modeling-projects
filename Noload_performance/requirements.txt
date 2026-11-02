@@ -1,0 +1,4 @@
+numpy
+scipy
+matplotlib
+pyfemm    # samo za afpm_femm.py (Windows + instaliran FEMM 4.2)
